@@ -59,4 +59,4 @@ async def source(ctx):
 
 
 keep_alive()
-bot.run('MTE1MzY3NzA0NjQ4MDg5NjEwMg.GIPv6S.fx05zMymcpmh8ckmkLVq9Z83wWf8p7QaAWvRSk')
+bot.run('YOUR TOKEN HERE')
